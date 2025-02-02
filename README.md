@@ -4,12 +4,20 @@ A simple, modern, and fully responsive Home Page built with React and Tailwind C
 
 🚀 Technologies Used
 ⚛️ React - For building interactive UI components
+
 🎨 Tailwind CSS - For fast and responsive styling
+
 🌙 Dark Mode - Supports both light and dark themes
+
+
 ⚡ Features
+
 ✅ Modern and responsive design
+
 ✅ Dark Mode with state saved in LocalStorage
+
 ✅ Styled using Tailwind CSS
+
 
 📸 Demo
 https://homepage-project-flame.vercel.app
