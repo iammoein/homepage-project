@@ -11,8 +11,8 @@ export default function MobileNavbar({onDark, toggleDark}) {
 
   const classes =
     "hover:border-b-2 hover:border-primary-color text-xl font-semibold text-[#909193] hover:text-primary-color active:border-primary-color active::text-primary-color";
-  const btnClasses =
-    "hover:filter hover:brightness-0 hover:saturate(100%) hover:hue-rotate(210deg) "
+ const btnClasses =
+    "hover:filter hover:brightness-0 hover:saturate-100 hover:hue-rotate-210deg dark:invert"
   return (
     <>
       <button onClick={toggleMenu} aria-label="Toggle menu">
